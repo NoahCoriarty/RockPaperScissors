@@ -55,6 +55,7 @@ int main() {
     // Determine the winner
     if (playerChoice == computerChoice) {
         printf("It's a tie!\n");
+        
     } else if ((playerChoice == 1 && computerChoice == 3) ||
                (playerChoice == 2 && computerChoice == 1) ||
                (playerChoice == 3 && computerChoice == 2)) {
