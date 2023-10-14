@@ -1,3 +1,5 @@
+Noah Coriarty
+
 //RPS
 
 #include <stdio.h>
